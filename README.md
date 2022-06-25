@@ -5,3 +5,4 @@ The Web Stack specialization module fat alx. In these projects I mastered the ba
 
 ### Project Category
 
+- [0x00-html_advanced]()
